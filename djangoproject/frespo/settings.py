@@ -14,7 +14,7 @@ MEDIA_ROOT_URL = '/static/media'
 
 SITE_PROTOCOL = 'http'
 SITE_HOST = 'localhost:8000'
-SITE_NAME = 'FreedomSponsors'
+SITE_NAME = 'Wikifunding'
 SITE_HOME = SITE_PROTOCOL+'://'+SITE_HOST
 
 # Local time zone for this installation. Choices can be found here:
