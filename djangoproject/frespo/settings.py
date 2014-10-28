@@ -228,7 +228,7 @@ PAGINATION_DEFAULT_WINDOW = 3
 
 ALLOWED_HOSTS = ['localhost']
 ADMINS = (
-    ('Admin', 'admin@freedomsponsors.org'),
+    ('Admin', 'al@blogmail.cc'),
 )
 MANAGERS = ADMINS
 
